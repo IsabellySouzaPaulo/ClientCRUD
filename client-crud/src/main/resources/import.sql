@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Aparecida Souza Lima', '29485136005', 4850.00, TIMESTAMP WITH TIME ZONE '1987-03-14T12:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('José Carlos Ferreira', '51820394760', 7200.50, TIMESTAMP WITH TIME ZONE '1975-11-02T12:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ana Beatriz Rodrigues', '73041682931', 3100.00, TIMESTAMP WITH TIME ZONE '1995-06-21T12:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Paulo Henrique Oliveira', '16293748573', 9800.00, TIMESTAMP WITH TIME ZONE '1982-09-08T12:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fernanda Cristina Almeida', '84910273603', 5600.75, TIMESTAMP WITH TIME ZONE '1990-01-30T12:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ricardo Alves Pereira', '37562819491', 12500.00, TIMESTAMP WITH TIME ZONE '1968-12-12T12:00:00Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Juliana Martins Costa', '60395721830', 2450.00, TIMESTAMP WITH TIME ZONE '2000-04-17T12:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carlos Eduardo Santos', '42178509304', 6150.00, TIMESTAMP WITH TIME ZONE '1992-08-25T12:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luciana Barbosa Nogueira', '95834067166', 8300.00, TIMESTAMP WITH TIME ZONE '1979-05-05T12:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rafael Gonçalves Ribeiro', '21760485390', 3800.00, TIMESTAMP WITH TIME ZONE '1998-10-10T12:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Patrícia Mendes Carvalho', '58692130702', 5200.00, TIMESTAMP WITH TIME ZONE '1985-02-19T12:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Thiago Nascimento Barros', '34017856217', 4300.00, TIMESTAMP WITH TIME ZONE '1994-07-28T12:00:00Z', 1);
